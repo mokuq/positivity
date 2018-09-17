@@ -1,0 +1,8 @@
+Flask
+nltk
+plotly
+termcolor
+Twython
+yandex.translate
+Werkzeug
+gunicorn
